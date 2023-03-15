@@ -1,0 +1,19 @@
+{
+  "name": "plops",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "plop": "plop",
+    "inquire": "node libs/inquire/example.js"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^9.1.4"
+  }
+}
