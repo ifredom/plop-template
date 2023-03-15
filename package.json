@@ -2,7 +2,6 @@
   "name": "plops",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "main": "src/main.js",
   "scripts": {
     "dev": "vite",
